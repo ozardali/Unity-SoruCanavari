@@ -1,0 +1,5 @@
+Oyunumuzu açarken 
+>>> Scren alanýndan "1366x768" boyutlarýný seçiniz.
+Graphics Quality alaný "Fantastic" olarak seçiniz.
+
+Ýyi oyunlar.
